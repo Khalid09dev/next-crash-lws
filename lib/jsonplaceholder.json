@@ -1,0 +1,32 @@
+[
+    {
+        "userId": 1, 
+        "id": 1, 
+        "title": "Built in caching system in nextjs",
+        "body": "description for built in data fetching caching system in nextjs"
+    },
+    {
+        "userId": 1, 
+        "id": 2, 
+        "title": "Built in caching system in nextjs",
+        "body": "description for built in data fetching caching system in nextjs"
+    },
+    {
+        "userId": 1, 
+        "id": 3, 
+        "title": "Built in caching system in nextjs",
+        "body": "description for built in data fetching caching system in nextjs"
+    },
+    {
+        "userId": 1, 
+        "id": 4, 
+        "title": "Built in caching system in nextjs",
+        "body": "description for built in data fetching caching system in nextjs"
+    },
+    {
+        "userId": 1, 
+        "id": 5, 
+        "title": "Built in caching system in nextjs",
+        "body": "description for built in data fetching caching system in nextjs"
+    }
+]
